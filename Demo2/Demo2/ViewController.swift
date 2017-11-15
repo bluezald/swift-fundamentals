@@ -1,15 +1,15 @@
 //
 //  ViewController.swift
-//  Demo1
+//  Demo2
 //
-//  Created by Vincent Bacalso on 14/11/2017.
+//  Created by Vincent Bacalso on 15/11/2017.
 //  Copyright © 2017 bluezald. All rights reserved.
 //
 
 import UIKit
 
 class ViewController: UIViewController {
-
+  
   @IBOutlet weak var statusLabel: UILabel!
   @IBOutlet weak var usernameTextfield: UITextField!
   @IBOutlet weak var passwordTextfield: UITextField!
@@ -23,15 +23,15 @@ class ViewController: UIViewController {
     // Do any additional setup after loading the view, typically from a nib.
     
     /** Reference Cycle Example
-    do {
-      let person = Person(name: "Luke Skywaler")
-      let team = Team(name: "Jedis")
-      
-      person.add(team: team)
-      team.add(person: person)
-    }
-    
-    print("Breakpoint here to see if there's a memory leak")
+     do {
+     let person = Person(name: "Luke Skywaler")
+     let team = Team(name: "Jedis")
+     
+     person.add(team: team)
+     team.add(person: person)
+     }
+     
+     print("Breakpoint here to see if there's a memory leak")
      */
   }
   
@@ -72,7 +72,12 @@ class ViewController: UIViewController {
         self.statusLabel.textColor = .green
       }
     }
+    
+    if let appDelegate = UIApplication.shared.delegate as? AppDelegate {
+      appDelegate.openMain(storyboard: self.storyboard!)
+    }
+    
+    
   }
   
 }
-

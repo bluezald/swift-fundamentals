@@ -1,0 +1,189 @@
+{
+  "results": [
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "romain",
+        "last": "hoogmoed"
+      },
+      "location": {
+        "street": "1861 jan pieterszoon coenstraat",
+        "city": "maasdriel",
+        "state": "zeeland",
+        "postcode": 69217
+      },
+      "email": "romain.hoogmoed@example.com",
+      "login": {
+        "username": "lazyduck408",
+        "password": "jokers",
+        "salt": "UGtRFz4N",
+        "md5": "6d83a8c084731ee73eb5f9398b923183",
+        "sha1": "cb21097d8c430f2716538e365447910d90476f6e",
+        "sha256": "5a9b09c86195b8d8b01ee219d7d9794e2abb6641a2351850c49c309f1fc204a0"
+      },
+      "dob": "1983-07-14 07:29:45",
+      "registered": "2010-09-24 02:10:42",
+      "phone": "(656)-976-4980",
+      "cell": "(065)-247-9303",
+      "id": {
+        "name": "BSN",
+        "value": "04242023"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/83.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/83.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/83.jpg"
+      },
+      "nat": "NL"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "ms",
+        "first": "caterina",
+        "last": "oliveira"
+      },
+      "location": {
+        "street": "1765 rua quinze de novembro ",
+        "city": "bacabal",
+        "state": "rondônia",
+        "postcode": 15112
+      },
+      "email": "caterina.oliveira@example.com",
+      "login": {
+        "username": "heavyleopard551",
+        "password": "idunno",
+        "salt": "rNYPzBPi",
+        "md5": "223294922263c2a9a2261a0cedfd7ca8",
+        "sha1": "b7510f83ccd5b20e8ca1a4741ed3bce35a35467f",
+        "sha256": "1c1eaf7111db2eb0c159dd4fdb03f1612f71043848f6e7a26943a8fb0562e25e"
+      },
+      "dob": "1949-10-06 15:30:31",
+      "registered": "2003-01-03 11:43:16",
+      "phone": "(04) 1542-8341",
+      "cell": "(94) 6942-0283",
+      "id": {
+        "name": "",
+        "value": null
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/12.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/12.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/12.jpg"
+      },
+      "nat": "BR"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "luukas",
+        "last": "aho"
+      },
+      "location": {
+        "street": "4692 tehtaankatu",
+        "city": "suonenjoki",
+        "state": "kymenlaakso",
+        "postcode": 64937
+      },
+      "email": "luukas.aho@example.com",
+      "login": {
+        "username": "heavydog108",
+        "password": "1969",
+        "salt": "iObM5vzJ",
+        "md5": "c6f375dc4433d8a370ce068393df7f77",
+        "sha1": "679fa8da82287500656bd90c03c0517c98197d42",
+        "sha256": "d623ce06b35a626a12cae03a34df9c2a0ce707cfe30ead15b9758f4bb0979ffb"
+      },
+      "dob": "1957-03-11 12:10:24",
+      "registered": "2016-04-20 18:56:29",
+      "phone": "09-566-320",
+      "cell": "048-897-44-87",
+      "id": {
+        "name": "HETU",
+        "value": "357-977M"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/75.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
+      },
+      "nat": "FI"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "mrs",
+        "first": "malou",
+        "last": "jensen"
+      },
+      "location": {
+        "street": "3748 askevej",
+        "city": "københavn s",
+        "state": "nordjylland",
+        "postcode": 77421
+      },
+      "email": "malou.jensen@example.com",
+      "login": {
+        "username": "beautifulladybug472",
+        "password": "patriot",
+        "salt": "yM9ARJa9",
+        "md5": "cb1d15ec71178395d644d272f0b6bf09",
+        "sha1": "4f950f0791cccd27d0f8fc0d7ce75077fd3cf18e",
+        "sha256": "4919e593d9e26a0e012c3de6194b31529783df3197c6c4bd4cc8808e178db32a"
+      },
+      "dob": "1946-10-23 13:48:52",
+      "registered": "2011-07-28 06:14:44",
+      "phone": "88162680",
+      "cell": "13636299",
+      "id": {
+        "name": "CPR",
+        "value": "046089-6967"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/94.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/94.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/94.jpg"
+      },
+      "nat": "DK"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "elias",
+        "last": "ahonen"
+      },
+      "location": {
+        "street": "3045 verkatehtaankatu",
+        "city": "sotkamo",
+        "state": "åland",
+        "postcode": 81458
+      },
+      "email": "elias.ahonen@example.com",
+      "login": {
+        "username": "tinygoose136",
+        "password": "duan",
+        "salt": "BhMfpjqL",
+        "md5": "c31685c837a0175a24c9e01136a790b6",
+        "sha1": "f924395845c597135e7081c3b3ab1f59c390b639",
+        "sha256": "1c2344d6d26fd2ecf4c49e4f4e3a527af1e5112948270077ea3822b1394a060d"
+      },
+      "dob": "1989-10-29 14:45:02",
+      "registered": "2015-11-03 13:12:10",
+      "phone": "04-673-642",
+      "cell": "048-241-86-32",
+      "id": {
+        "name": "HETU",
+        "value": "989-641W"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/89.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/89.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/89.jpg"
+      },
+      "nat": "FI"
+    }
+  ]
+}
